@@ -1,0 +1,6 @@
+com\gorestwk18\model\GoRestPojo.class
+com\gorestwk18\gorestinfo\GoRestSteps.class
+com\gorestwk18\constants\Path.class
+com\gorestwk18\constants\EndPoints.class
+com\gorestwk18\utils\TestUtils.class
+com\gorestwk18\utils\PropertyReader.class
